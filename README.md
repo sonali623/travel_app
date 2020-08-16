@@ -1,4 +1,4 @@
-# shop_app
+# travel_app
 
 A new Flutter application.
 
